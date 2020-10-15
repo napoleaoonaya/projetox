@@ -6,6 +6,7 @@ if(isset($_POST["email"]) && !empty($_POST["email"])){
      echo "Usuario logado no sistema! - Login: ".$email." - Senha: ".$senha;	
    }   
 }
+//exercicio
 ?>
 <hr/>
 <form method="POST">

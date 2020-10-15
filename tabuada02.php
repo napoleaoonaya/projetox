@@ -12,6 +12,7 @@ if(isset($_POST["numero"]) && !empty($_POST["numero"])){
 
 	}
 }
+//exercicio
 ?>
 <hr/>
 <form method="POST">

@@ -10,5 +10,5 @@ echo floor(2.9)."<br/>";
 echo floor(2.4)."<br/>";
 echo rand(3,9)."<br/>";
 
-
+//exercicio
 ?>

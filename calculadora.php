@@ -36,4 +36,6 @@ echo "A soma armazenando dentro de uma variavel: ".$soma."<br/>";
 
 echo "A soma chamando a função direta: ".somarNumero(10,20);
 
+//exercicio
+
 ?>

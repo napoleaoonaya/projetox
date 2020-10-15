@@ -39,5 +39,5 @@ if($_SESSION["secret"] == $secret){
 //$_SESSION["soma"] = soma(2,4);
 
 //echo $_SESSION["soma"];
-
+//exercicio
 ?>

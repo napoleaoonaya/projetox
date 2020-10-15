@@ -77,5 +77,5 @@ $administrativo = array(
 foreach($administrativo as $chave => $adm){
 	echo $chave." : ".$adm."<br/>";
 }
-
+//exercicio
 ?>

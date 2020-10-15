@@ -11,5 +11,5 @@ echo "<br/>";
 foreach($x as $chave => $valor){
 	echo $chave." - ".$valor."<br/>";
 }
-
+//exercicio
 ?>

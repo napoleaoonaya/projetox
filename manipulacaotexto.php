@@ -106,5 +106,5 @@ echo $nomeDanielMaisculoCompleto."<br/>";
 echo "<br/>";
 echo "<br/>";
 
-
+//exercicio
 ?>
