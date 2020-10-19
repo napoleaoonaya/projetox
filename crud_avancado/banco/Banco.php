@@ -1,6 +1,8 @@
 <?php
 class Banco {
   
+    //CRUD para qualquer tabela
+
     private $pdo;
     private $numRows;
     private $array;
