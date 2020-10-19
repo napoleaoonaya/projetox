@@ -40,6 +40,6 @@ $banco->delete("posts",
 
 $banco->query("SELECT * FROM posts");
 
-print_r($banco);
+var_dump($banco);
 
 ?>
