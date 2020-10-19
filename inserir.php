@@ -39,7 +39,5 @@ try{
 }
 
 
-//exercicio
-
 
 ?>

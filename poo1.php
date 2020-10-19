@@ -59,6 +59,4 @@ echo "<br/>";
 
 echo "Nome: ".$dog2->getNome()." idade: ".$dog2->getIdade();
 
-
-
 ?>

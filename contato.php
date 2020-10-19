@@ -1,3 +1,4 @@
+<h1>Contatos</h1>
 <form method="POST">
 	Nome:<br/>
 	<input type="text" name="nome" /><br/>

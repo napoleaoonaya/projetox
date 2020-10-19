@@ -1,6 +1,5 @@
 <?php
   require "processa.php";
-  //exercicio
 ?>
 <hr/>
 <form method="POST">

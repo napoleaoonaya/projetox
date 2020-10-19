@@ -33,10 +33,13 @@ $banco->update("posts",
     array("titulo"=>"Teste 123"),
     array("id"=>"10", "autor"=>"Napoleão"),
     "AND");
-    
+
+$banco->delete("posts",
+    array("id"=>"11","titulo"=>"Teste update"));
 */
 
-$banco->delete("posts",array("id"=>"11","titulo"=>"Teste update"));
+$banco->query("SELECT * FROM posts");
 
-    
+print_r($banco);
+
 ?>

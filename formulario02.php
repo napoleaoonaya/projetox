@@ -21,7 +21,6 @@ if(isset($_GET["numero"])&& !empty($_GET["numero"])){
 
 		}
 }
-//exercicio
 ?>
 <hr/>
 <form method="GET">

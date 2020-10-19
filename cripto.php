@@ -27,6 +27,6 @@ $senhaDecode = base64_decode($senhaCripto);
 echo $senhaDecode;
 
 echo "<br/>";
-//exercicio
+
 
 ?>

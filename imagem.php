@@ -38,4 +38,6 @@ imagepng($imagem_final,"mini_imagem.png");
 
 echo "imagem redimencionada com sucesso";
 
+//teste
+
 ?>

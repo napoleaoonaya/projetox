@@ -85,6 +85,5 @@ if(in_array("Napoleão",$nomes)){
   echo "Não foi desta vez";
 }
 
-//exercicio
 
 ?>
